@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 General IT Projects:</h2>
 
-  - [Proxmox Homelab: AdGuard DNS & Splunk Security Monitoring]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/treiqo/proxmox-siem/tree/main))
+  - [Proxmox Homelab: Integrated Home SIEM with DNS Filtering](https://github.com/treiqo/proxmox-siem/tree/main)
 
 <h2>📚Certifications & Training:</h2>
 
