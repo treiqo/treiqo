@@ -6,8 +6,10 @@
 
 <h2>📚Certifications & Training:</h2>
 
-- [CompTIA Security+](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [TryHackMe](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [CompTIA Security+](https://www.credly.com/badges/aa3dd691-7934-43bb-ba4b-5387047ae409/linked_in_profile)
+- [Pre Security Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KBZ6CUZFAQ.pdf)
+- [Learn JavaScript Course](https://www.codecademy.com/profiles/iigump/certificates/705dcb15de0da4dd9d9fc4f3274b430e)
+- [Learn HTML Course](https://www.codecademy.com/profiles/iigump/certificates/9eb0741e5ebef1f9f58a53bfac67d3a7)
 
 <h2> 🤳 Connect with me:</h2>
 
