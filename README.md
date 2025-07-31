@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 General IT Projects:</h2>
 
-  - [Proxmox Homelab: Integrated Home SIEM with DNS Filtering](https://github.com/treiqo/proxmox-siem/tree/main)
   - [Windows Active Directory Lab](https://github.com/treiqo/Windows-Active-Directory-Lab/tree/main)
+  - [Proxmox Homelab: Integrated Home SIEM with DNS Filtering](https://github.com/treiqo/proxmox-siem/tree/main)
 
 <h2>📚Certifications & Training:</h2>
 
